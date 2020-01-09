@@ -80,7 +80,7 @@ sleep 2;
 
 echo -e "\\n"
 echo "Alias Stuff"
-echo  alias ytl=\'youtube-dl --ignore-config -f bestaudio/best --extract-audio --audio-format mp3 --audio-quality 0 --embed-thumbnail --output "~/storage/music/%(playlist)s/%(title)s.%(ext)s"\' >> /data/data/com.termux/files/usr/etc/bash.bashrc
+echo  alias yt=\'youtube-dl --ignore-config -f bestaudio/best --extract-audio --audio-format mp3 --audio-quality 0 --embed-thumbnail --output "~/storage/music/%(playlist)s/%(title)s.%(ext)s"\' >> /data/data/com.termux/files/usr/etc/bash.bashrc
 
 echo  alias ytl=\'youtube-dl --ignore-config -f bestaudio/best --extract-audio --audio-format mp3 --audio-quality 0 --embed-thumbnail --output "~/storage/music/%(playlist)s/%(title)s.%(ext)s"\' >> /data/data/com.termux/files/usr/etc/bash.bashrc
 
