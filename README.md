@@ -1,5 +1,5 @@
 - Open Termux.
-- Copy all and paste below line.
+- Copy all line below and paste into Termux.
 - curl -sL https://raw.githubusercontent.com/ntloc9/mp3ConvertTermux/master/youtubeTermux.sh | bash
 - Use 'yt [link-youtube]' to download mp3.
 - Use 'ytl [link-playlist]' to download whole playlist.
