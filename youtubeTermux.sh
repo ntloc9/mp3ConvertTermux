@@ -90,4 +90,3 @@ echo -e "\\n"
 
 echo "+++ Installation completed successfully +++"
 echo "+++ You can now use Youtube-dl to download the Youtube videos +++"
-echo "+++ Hello, I'am Loc Nguyen and this is my script bash for download Youtube videos on Termux+++"
